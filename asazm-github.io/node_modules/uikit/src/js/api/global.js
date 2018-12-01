@@ -18,10 +18,7 @@ export default function (UIkit) {
 
     UIkit.mixin = function (mixin, component) {
         component = (isString(component) ? UIkit.component(component) : component) || this;
-        mixin = mergeOptions({}, mixin);
-        mixin.mixins = component.options.mixins;
-        delete component.options.mixins;
-        component.options = mergeOptions(mixin, component.options);
+        component.options = mergeOptions(component.options, mixin);
     };
 
     UIkit.extend = function (options) {
@@ -37,7 +34,7 @@ export default function (UIkit) {
         Sub.prototype.constructor = Sub;
         Sub.options = mergeOptions(Super.options, options);
 
-        Sub['super'] = Super;
+        Sub.super = Super;
         Sub.extend = Super.extend;
 
         return Sub;
@@ -73,7 +70,7 @@ export default function (UIkit) {
         }
 
         for (const name in data) {
-            if (data[name]._isReady) {
+            if (data[name]._connected) {
                 data[name]._callUpdate(e);
             }
         }
