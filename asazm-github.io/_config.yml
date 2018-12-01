@@ -15,15 +15,15 @@ baseurl:            ""
 permalink:          /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
-url:                "https://memoir.jekyll.plus"
+url:                "https://asazm.github.io/asazm-github.io/"
 
 # Site logo, image or text
 logo:               # e.g. logo.png, upload logo image file to /assets/img/ folder
-logo_text:          Memoir      # if the above "logo:" image variable  is not set, this text logo is displayed instead
+logo_text:          Light Painting      # if the above "logo:" image variable  is not set, this text logo is displayed instead
 
 # Author settings, displayed on about page
 author:
-    name:           Asa Zalles0Milner
+    name:           Asa Zalles-Milner
     bio:            Hi, I'm Asa, Photographer and Software Developer.
     email:          asazm@aol.com
     # website:        http://somewebsite.com
@@ -44,7 +44,7 @@ twitter_username:   asazm
 github_username:    asazm
 
 # Site background color
-template:           light       # light or dark
+template:           dark       # light or dark
 
 # Default header image settings
 header:
