@@ -9,7 +9,7 @@ title:              AsaZM Photography
 description:        Hi, I'm Memoir, an awesome Jekyll bloging theme.
 
 # Site subpath, e.g. /blog
-baseurl:            "/asazm"
+baseurl:            "/"
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink:          /:title/
