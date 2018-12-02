@@ -9,13 +9,13 @@ title:              AsaZM Photography
 description:        Hi, I'm Memoir, an awesome Jekyll bloging theme.
 
 # Site subpath, e.g. /blog
-baseurl:            "/asazm"
+baseurl:            "/"
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink:          /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
-url:                "https://asazm.github.io/asazm-github.io/"
+url:                "https://asazm.github.io/"
 
 # Site logo, image or text
 logo:               # e.g. logo.png, upload logo image file to /assets/img/ folder
