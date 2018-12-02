@@ -57,7 +57,7 @@ footer:
     image:          footer.jpg  # upload your header image to /assets/posts/ folder
     align:          center      #top, center or bottom
     text:           light       # light or dark
-    copyright:      Made by a <a href="https://ivanchromjak.com/">human</a> somewhere on the planet earth.
+    copyright:      Made by Asa.
 
 # Post settings
 post:
