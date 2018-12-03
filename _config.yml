@@ -25,15 +25,15 @@ logo_text:          AsaZM Photography      # if the above "logo:" image variable
 author:
     name:           Asa Zalles-Milner
     bio:            Hi, I'm Asa, Photographer and Software Developer.
-    email:          asazm@aol.com
+    email:          /contact/
     # website:        http://somewebsite.com
     facebook:       https://www.facebook.com/asa.zallesmilner
     # flickr:         https://flickr.com/
     # dribbble:       https://dribbble.com/
-    # github:         https://github.com/
+    github:         https://github.com/asazm
     # googleplus:     https://plus.google.com/
-    instagram:      https://www.instagram.com/
-    linkedin:       https://www.linkedin.com/feed/
+    instagram:      https://www.instagram.com/asazmphotography/
+    linkedin:       https://www.linkedin.com/in/asa-zalles-milner-0b8a2045/
     # pinterest:      https://www.pinterest.com/
     # twitter:        https://twitter.com/
     # vimeo:          https://vimeo.com/

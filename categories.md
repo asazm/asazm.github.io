@@ -2,7 +2,7 @@
 layout: categories
 permalink: /categories/
 title: Portraiture
-subtitle: all posts
+<!-- subtitle: all posts -->
 header:
     image: savanna.jpg
     text: light
