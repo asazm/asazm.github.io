@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Asa Zalles-Milner
-subtitle: photographer
+subtitle: photographer (This photo not Me. Will upload real one eventually)
 permalink: /about/
 header:
     image: https://source.unsplash.com/DMVD9RkZIwQ.jpg
