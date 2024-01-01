@@ -6,7 +6,7 @@
 
 # Site title and description
 title:              AsaZM Photography
-description:        Photography By Asa.
+description:        Photography By Asa
 
 # Site subpath, e.g. /blog
 baseurl:            "/"
@@ -23,8 +23,8 @@ logo_text:          AsaZM Photography      # if the above "logo:" image variable
 
 # Author settings, displayed on about page
 author:
-    name:           Asa Zalles-Milner
-    bio:            Hi, I'm Asa, Photographer and Software Developer.
+    name:           Asa
+    bio:            Hi, I'm Asa, Photographer and Light Painting Fanatic
     email:          /contact/
     # website:        http://somewebsite.com
     facebook:       https://www.facebook.com/asa.zallesmilner
@@ -33,7 +33,7 @@ author:
     github:         https://github.com/asazm
     # googleplus:     https://plus.google.com/
     instagram:      https://www.instagram.com/asazmphotography/
-    linkedin:       https://www.linkedin.com/in/asa-zalles-milner-0b8a2045/
+    #linkedin:       https://www.linkedin.com/
     # pinterest:      https://www.pinterest.com/
     # twitter:        https://twitter.com/
     # vimeo:          https://vimeo.com/
